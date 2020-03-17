@@ -1,0 +1,11 @@
+https://en.wikipedia.org/wiki/Classful_network
+
+https://en.wikipedia.org/wiki/List_of_assigned_/8_IPv4_address_blocks
+
+https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing
+
+https://tools.ietf.org/pdf/rfc1918.pdf
+
+https://www.iana.org/assignments/ipv4-address-space/ipv4-address-space.xhtml
+
+https://ip-lookup.net/
